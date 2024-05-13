@@ -1,3 +1,1 @@
-Estudante no primeiro semestre de ADS
-Formado em Ensino Médio Tec. em Desenvolvimento de Jogos 
-
+###Oii!  sou Gustavo Martins, estudante de ADS
